@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PySpark & Spark Checkpoints
+checkpoints/
+output/
+.checkpoint/
+metastore_db/
+derby.log
+
+# Caches and temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo

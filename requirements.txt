@@ -1,0 +1,5 @@
+pyspark>=3.5.0
+graphframes>=0.8.3
+networkx>=3.0
+matplotlib>=3.7.0
+pandas>=2.0.0
