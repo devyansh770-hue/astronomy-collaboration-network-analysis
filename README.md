@@ -155,9 +155,6 @@ python code/08_network_visualization.py
 **Devyansh Verma**
 - **Course**: INT315 (Big Data / Graph Analytics)
 - **Email**: devyansh770@gmail.com
-- **LinkedIn**: [Devyansh Verma](https://www.linkedin.com/in/) *(Add your profile URL)*
-- **GitHub**: [devyanshverma](https://github.com/) *(Add your profile URL)*
-
 ---
 
 ## 📜 Acknowledgements
